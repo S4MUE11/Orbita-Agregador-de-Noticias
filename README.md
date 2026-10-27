@@ -1,4 +1,4 @@
-# 🌎 Feed de Noticias Órbita RSS
+# 🌎 Órbita de Notícias RSS
 
 **Agregador de feeds RSS 2.0 e Atom desenvolvido em Rust**
 
